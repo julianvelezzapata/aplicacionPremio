@@ -1,0 +1,182 @@
+[
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué club de portugal jugaba Cristiano Ronaldo antes de ir al Manchester United?",
+        "respuesta": "Sporting de lisboa",
+        "incorrecta1": "Real Madrid",
+        "incorrecta2": "Juventus",
+        "incorrecta3": "Milan",
+        "imagen": "https://dam.tbg.com.mx/content/dam/editorialTelevisa/mexico/caras/mx/trends/15/10/_fb8a02f5_f683_d6d7_96ca_2de71902d39c.jpg.imgo.jpg"
+    },
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿Quién fue el primer campeÓn de la primera division de LA LIGA de españa?",
+        "respuesta": " FC Barcelona",
+        "incorrecta1": "Real Madrid",
+        "incorrecta2": "Sevilla",
+        "incorrecta3": "Athletic Club",
+        "imagen": "https://e00-us-marca.uecdn.es/claro/assets/multimedia/imagenes/2020/07/16/15948512105591.jpg"
+    },
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿Sólo un club de Rumania ganó la copa de europa, cual fué?",
+        "respuesta": "steaua bucarest",
+        "incorrecta1": "Clinceni",
+        "incorrecta2": "Târgoviște",
+        "incorrecta3": "Astra",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coupe_Henri_Delaunay_2017.jpg/245px-Coupe_Henri_Delaunay_2017.jpg"
+    },
+    {
+        "categoria": "Fútbol",
+        "pregunta": "¿3 personas han ganado la champions league durante 3 ocasiones como entrenadores, quiénes son?",
+        "respuesta": "Bob paisley , Carlo Ancelotti y Zidane",
+        "incorrecta1": "Pep guardiola, Luis carniglia, Helenio herrera",
+        "incorrecta2": "Jose mourinho, Josef Heynckes, Carlo Ancelotti ",
+        "incorrecta3": "Béla Guttmann,Miguel Muñoz, Zidane",
+        "imagen": "https://editorial.uefa.com/resources/026b-12b6a5dc8f16-3eee5dbb0cd4-1000/ucl_logo_20210701155513.jpg"
+    },
+    {
+        "categoria": "Futbol",
+        "pregunta": "¿Cuál es el club europeo con más champions league ganadas?",
+        "respuesta": "Real Madrid",
+        "incorrecta1": "Barcelona",
+        "incorrecta2": "Inter de Milan",
+        "incorrecta3": "Milan",
+        "imagen": "https://i0.wp.com/www.neogol.com/wp-content/uploads/2020/05/todos-los-campeones-champions-1.jpg?resize=696%2C311&ssl=1"
+    },
+    {
+        "categoria": "Farándula",
+        "pregunta": "¿Cuál fue el Primer largometraje de Pixar?",
+        "respuesta": "Toy Story 1995",
+        "incorrecta1": "La bella y la Bestia",
+        "incorrecta2": "Hugo",
+        "incorrecta3": "Monster Inc",
+        "imagen": "https://tentulogo.com/wp-content/uploads/2018/07/pixar-logo.jpg"
+    },
+    {
+        "categoria": "Farándula",
+        "pregunta": "¿En qué año nació Stevie Wonder  ?",
+        "respuesta": "1950",
+        "incorrecta1": "1960",
+        "incorrecta2": "1945",
+        "incorrecta3": "1955",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Graduation_2011_%285716667594%29.jpg"
+    },
+    {
+        "categoria": "Farándula",
+        "pregunta": "¿Cuál pelicula Leonardo Dicaprio ganó su primer Oscar",
+        "respuesta": "EL renacido",
+        "incorrecta1": "Titanic",
+        "incorrecta2": "Lagrimas de sol",
+        "incorrecta3": "La isla siniestra",
+        "imagen": "https://smoda.elpais.com/wp-content/uploads/2019/08/leo-591x447.jpg"
+    },
+    {
+        "categoria": "Farándula",
+        "pregunta": "¿Qué disco desbancó a Thriller de Michael Jackson en el puesto de disco más vendido de la historia ?",
+        "respuesta": " The Eagles: Their Greatest Hits (1971-1975) (17 de febrero de 1976)",
+        "incorrecta1": " Eagles: Hotel California (8 diciembre de 1986)",
+        "incorrecta2": "The Beatles: The Beatles",
+        "incorrecta3": "Billy Joel: Greatest Hits Volume I & Volume II (2 de septiembre de 1985)",
+        "imagen": "https://www.solfeggio528.com/wp-content/uploads/2020/04/discos-de-oro-1024x768.jpg"
+    },
+    {
+        "categoria": "Farándula",
+        "pregunta": "¿Qué artista tiene en su poder mas premios EMMY?",
+        "respuesta": "Julia Louis",
+        "incorrecta1": " Leonardo Dicaprio",
+        "incorrecta2": " Will Smith",
+        "incorrecta3": "Jhony Depp",
+        "imagen": "https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800"
+    },
+    {
+        "categoria": "Moda",
+        "pregunta": "¿Cuándo se publicó la primera edición de la revista Vogue ?",
+        "respuesta": "1892",
+        "incorrecta1": "1891",
+        "incorrecta2": "1980",
+        "incorrecta3": "1960",
+        "imagen": "https://media.vogue.es/photos/5e74b16aca095800085a0c7c/master/w_1600,c_limit/PORTADAS%2520IG2.jpg"
+    },
+    {
+        "categoria": "Moda",
+        "pregunta": "¿Qué diseñador(a) es el único que figura como una de las 100 personas mas influyentes del siglo XX?",
+        "respuesta": "Coco Channel",
+        "incorrecta1": "Azzedin Alaia",
+        "incorrecta2": "Martin Margiela",
+        "incorrecta3": "Antonio Berardi",
+        "imagen": "https://modadesnuda.files.wordpress.com/2012/06/moda_desnuda_peplum_evolucion.jpg"
+    },
+    {
+        "categoria": "Moda",
+        "pregunta": "¿Quién inventó el icónico Little Black Dress?",
+        "respuesta": "Coco Channel",
+        "incorrecta1": "Versace",
+        "incorrecta2": "Dolce & Gabbana",
+        "incorrecta3": "Giorgio Armani",
+        "imagen": "https://aws.glamour.es/prod/designs/v1/assets/original/361347.jpg"
+    },
+    {
+        "categoria": "Moda",
+        "pregunta": "¿Cuál es la marca de ropa que más vendio en el 2020?",
+        "respuesta": "Nike",
+        "incorrecta1": "GUCCI",
+        "incorrecta2": "Adidas",
+        "incorrecta3": "Louis Vuitton",
+        "imagen": "https://www.ruubay.com/wp-content/uploads/tienda-jd-sports-granada-nevada-evento.jpg"
+    },
+    {
+        "categoria": "Moda",
+        "pregunta": "¿Cuál es la marca de ropa deportiva que más vende?",
+        "respuesta": "Nike",
+        "incorrecta1": "Adidas",
+        "incorrecta2": "Reebok",
+        "incorrecta3": "Puma",
+        "imagen": "https://i.blogs.es/029c15/sin-titulo/1366_2000.png"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Dónde se encuentra The Pietà de Miguel Angel?",
+        "respuesta": "El Vaticano",
+        "incorrecta1": "Catedral de Santa María del Fiore",
+        "incorrecta2": "Torre de pisa",
+        "incorrecta3": "Foro Romano",
+        "imagen": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555441541/shape/mentalfloss/800px-michelangelos_pieta_5450.jpg?itok=qAp9J1Pz"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó LAS BODAS DE CANÁ?",
+        "respuesta": "Pablo Veronese",
+        "incorrecta1": "Tiziano",
+        "incorrecta2": "Sandro Botticelli",
+        "incorrecta3": "Claude Monet",
+        "imagen": "https://educacion.ufm.edu/wp-content/uploads/2016/11/Paolo_Veronese_008.jpg"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es la obra artística mexica más grande?",
+        "respuesta": "el monolito de Tlaltecuhtli",
+        "incorrecta1": "Baile en Tehuantepec ",
+        "incorrecta2": "La piedra del sol",
+        "incorrecta3": "Coyolxauhqui",
+        "imagen": "https://i2.wp.com/polodearte.com/wp-content/uploads/2016/05/1462090766_911_25-preguntas-que-todo-conocedor-de-arte-deber%C3%ADa-poder-responder.jpg?resize=798%2C796"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó Anatomical Pieces?",
+        "respuesta": "Theodore Gericault",
+        "incorrecta1": "Leonardo da Vinci ",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Donatello",
+        "imagen": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555441541/shape/mentalfloss/800px-michelangelos_pieta_5450.jpg?itok=qAp9J1Pz"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó el Grito?",
+        "respuesta": "Edvard Munch",
+        "incorrecta1": "Vasili Kandindki",
+        "incorrecta2": "Ernst Ludwig",
+        "incorrecta3": "Anita Malfatti",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/UTZGQT7AZJAWBFY57ZMTPUACMY.jpg"
+    }
+]
